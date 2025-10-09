@@ -1,7 +1,30 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 46929b6f44baca5b0fb6c2556ad601a0d342e985
-  Commits: 1
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: eb106e6acd8bd0302b9697131ca890d419bf01c3
+  Commits: 3
   Recent commits:
+    eb106e6 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T23:37:49Z | Bump python in /presidio-anonymizer
+    b559a77 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T23:37:12Z | Auto-update branch-info.txt
+    46929b6 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T19:37:01-04:00 | Initial commit
+- dependabot/github_actions/actions/checkout-5
+  SHA: 90ade0c678fa397cf736d5d07ed97b5bf0cfb905
+  Commits: 3
+  Recent commits:
+    90ade0c | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T23:37:39Z | Bump actions/checkout from 3 to 5
+    b559a77 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T23:37:12Z | Auto-update branch-info.txt
+    46929b6 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T19:37:01-04:00 | Initial commit
+- lab7
+  SHA: 6317ab0f2bf28e0508e603fad082b9bbee691d61
+  Commits: 3
+  Recent commits:
+    6317ab0 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-10-09T23:50:07Z | unit tests
+    b559a77 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T23:37:12Z | Auto-update branch-info.txt
+    46929b6 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T19:37:01-04:00 | Initial commit
+- main
+  SHA: 6317ab0f2bf28e0508e603fad082b9bbee691d61
+  Commits: 3
+  Recent commits:
+    6317ab0 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-10-09T23:50:07Z | unit tests
+    b559a77 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T23:37:12Z | Auto-update branch-info.txt
     46929b6 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T19:37:01-04:00 | Initial commit
